@@ -8,6 +8,7 @@ import numpy as np
 st.set_page_config(page_title="Song Analyzer", page_icon="🎸")
 
 st.title("Song Analyzer")
+st.caption("Version 0.1 – July 2025")
 st.write(
     "Upload a mono WAV file of your guitar playing and get the detected key, scale, BPM, and loudness."
 )
